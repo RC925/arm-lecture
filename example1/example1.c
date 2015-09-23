@@ -6,7 +6,7 @@ int main()
 	a=10;
 	b=12;
 	c=add(a,b);
-	return c;
+	return c+b;
 }
 
 int add(int a, int b)
